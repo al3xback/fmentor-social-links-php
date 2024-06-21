@@ -1,0 +1,16 @@
+{
+	"name": "fmentor-social-links-php",
+	"version": "1.0.0",
+	"description": "social links profile using php",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-social-links-php.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-social-links-php/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-social-links-php#readme"
+}
